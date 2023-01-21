@@ -21,11 +21,13 @@
 > ### 在扩展一个项目 
 > 1. [webshell-venom](https://github.com/yzddmr6/webshell-venom)
 > 2. 免杀webshell无限生成工具
-> 3. 免杀webshell无限生成工具(免杀一句话生成|免杀D盾|免杀安全狗护卫神河马查杀等一切waf)
-> 4. Author : yzddmr6
-> 5. https://github.com/pureqh/webshell
-> 6. 请自行鉴别后门
-
+>>  免杀webshell无限生成工具(免杀一句话生成|免杀D盾|免杀安全狗护卫神河马查杀等一切waf)
+>>  
+>>  Author : yzddmr6
+>>  
+>>  https://github.com/pureqh/webshell
+>>  
+>>  请自行鉴别后门
 
 > ### other webshell project (update 2021-04-03)
 > 1. [xl7dev/WebShell](https://github.com/xl7dev/WebShell)
@@ -65,18 +67,22 @@
 > 13. 以上排名不分先后
 
 
+
 Author ：tennc
 
 http://tennc.github.io/webshell
 
-license : GPL v3
+license : MIT
 
 ## Download link
 Check github releases. Latest:
 
 [https://github.com/tennc/webshell/releases](https://github.com/tennc/webshell/releases)
 
-## <img src="https://raw.githubusercontent.com/tennc/webshell/master/jetbrains.png" width="200"> Thanks to [Jetbrains](https://www.jetbrains.com/?from=webshell)
+## Many thanks to Jetbrains for providing us with an OSS licence for their fine development tools such as [Jetbrains tools](https://www.jetbrains.com/?from=webshell).
+
+## 
 
 [![Stargazers over time](https://starchart.cc/tennc/webshell.svg)](https://starchart.cc/tennc/webshell)
+
 
